@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahanban15
 - 👀 I’m interested in computers softwares and technology. I am eager to code and contribute for resolving issues for the community.
 - 🌱 I’m currently learning C/C++ and Web Development
-- 💞️ I’m looking to collaborate on non-code open source projects
+- 💞️ I’m looking to collaborate on any sort of open source projects
 - 📫 How to reach me -> my email ID: ahanbandyopadhyay@gmail.com
 
 <!---
