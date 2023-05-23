@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ahanban15
+- 👋 Hi, I’m @ahanban15: AHAN BANDYOPADHYAY, a CSE B.Tech major from National Institute of Technology, Delhi.
 - 👀 I’m interested in computers softwares and technology. I am eager to code and contribute for resolving issues for the community.
-- 🌱 I’m currently learning C/C++ and Web Development
-- 💞️ I’m looking to collaborate on any sort of open source projects
+- 🌱 I’m currently learning C|C++|Java for DSA
+- 🎯 My long term interest circumsides in Python for my personal deep dive into AI/ML and Deep Learning.
+- 💻 My tech stack for Web Development comprises HTML|CSS|JavaScript|ExpressJS|PHP.  
+- 💞️ I’m open to collaborate on any sort of open source projects
 - 📫 How to reach me -> my email ID: ahanbandyopadhyay@gmail.com
 
 <!---
